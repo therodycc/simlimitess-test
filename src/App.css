@@ -119,6 +119,8 @@ body {
   flex-direction: column;
   height: 450px;
   overflow-y: scroll;
+  position: absolute;
+  top: 130px;
 }
 .pop-up > p{
   font-size: 12px;
